@@ -1,3 +1,4 @@
+
 # Adminpanel to manage companies
 
 Project to manage companies and their employees. Mini-CRM.
@@ -16,3 +17,4 @@ Project to manage companies and their employees. Mini-CRM.
  
  ##### Use Datatables.net library to show table – with our without server-side rendering
  ##### use NPM and webpack to install datatables library. 
+ ## Use github repository and invite OneSoftIO to view you results
