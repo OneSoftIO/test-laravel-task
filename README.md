@@ -13,7 +13,7 @@ Project to manage companies and their employees. Mini-CRM.
  - Use basic Laravel resource controllers with default methods – index, create, store etc.
  - Use Laravel’s validation function, using Request classes
  - Use Laravel’s pagination for showing Companies/Employees list, 10 entries per page
- - Use Laravel make:auth as default Bootstrap-based design theme, but remove ability to register
+ - Use Laravel Jetstream as login engine, but remove ability to register
  
  ##### Use Datatables.net library to show table – with our without server-side rendering
  ##### use NPM and webpack to install datatables library. 
